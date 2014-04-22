@@ -21,7 +21,6 @@ public class CalculatorTest {
 		Calculator voCalc = new Calculator(5, 3);
 		int result = voCalc.subtraction();
 		
-		assertTrue(5 > 3);
 		assertEquals(2, result);
 	}
 	
