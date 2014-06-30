@@ -1,8 +1,10 @@
-package com.java.test;
+package com.mamaga.calc.test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+
 import org.junit.Test;
-import com.java.Calculator;
+
+import com.mamaga.calc.Calculator;
 
 public class CalculatorTest {
 

@@ -1,4 +1,4 @@
-package com.java;
+package com.mamaga.calc;
 
 public class Main {
 	

@@ -1,10 +1,10 @@
-package com.java.test;
+package com.mamaga.calc.test;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import com.java.ScientificCalculator;
+import com.mamaga.calc.ScientificCalculator;
 
 public class ScientificCalculatorTest {
 	
